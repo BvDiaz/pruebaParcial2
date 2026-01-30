@@ -1,0 +1,83 @@
+ID,Tipo_Ataque,IP_Origen,IP_Destino,Severidad,País_Origen,País_Destino,Fecha_Ataque,Duracion_Minutos,Contenido_Sensible_Comprometido
+1,DDoS,192.168.1.1,203.0.113.195,Alta,China,Estados Unidos,2023-10-01 14:30:00,120,False
+2,Phishing,10.0.0.2,198.51.100.25,Media,Russia,Alemania,2023-09-25 09:15:00,30,True
+3,Malware,172.16.254.1,203.0.113.42,Alta,Corea del Sur,Japón,2023-10-05 18:45:00,90,True
+4,Man-in-the-Middle,192.168.0.10,198.51.100.78,Baja,India,Canadá,2023-09-30 22:00:00,15,False
+5,SQL Injection,10.0.0.5,203.0.113.101,Alta,Brasil,Estados Unidos,2023-10-02 12:10:00,60,True
+6,Ransomware,172.16.254.2,198.51.100.33,Alta,Ucrania,Polonia,2023-09-28 16:20:00,180,True
+7,Brute Force,192.168.1.15,203.0.113.88,Media,Irán,Turquía,2023-10-03 08:05:00,45,False
+8,Zero-Day Exploit,10.0.0.8,198.51.100.12,Alta,China,Reino Unido,2023-09-27 20:30:00,120,True
+9,Spyware,172.16.254.3,203.0.113.56,Media,Corea del Norte,Corea del Sur,2023-10-06 10:50:00,90,True
+10,Cross-Site Scripting (XSS),192.168.0.20,198.51.100.45,Baja,Vietnam,Australia,2023-09-29 14:15:00,20,False
+11,DDoS,10.0.0.12,203.0.113.200,Alta,Rusia,Estados Unidos,2023-10-07 19:00:00,150,False
+12,Phishing,172.16.254.4,198.51.100.67,Media,China,Alemania,2023-09-26 11:25:00,25,True
+13,Malware,192.168.1.25,203.0.113.78,Alta,India,Japón,2023-10-08 13:40:00,100,True
+14,Man-in-the-Middle,10.0.0.15,198.51.100.89,Baja,Brasil,Canadá,2023-09-24 21:55:00,10,False
+15,SQL Injection,172.16.254.5,203.0.113.102,Alta,Ucrania,Estados Unidos,2023-10-09 17:30:00,70,True
+16,Ransomware,192.168.0.30,198.51.100.34,Alta,Irán,Polonia,2023-09-23 07:45:00,200,True
+17,Brute Force,10.0.0.18,203.0.113.90,Media,Corea del Norte,Turquía,2023-10-10 09:20:00,50,False
+18,Zero-Day Exploit,172.16.254.6,198.51.100.13,Alta,Vietnam,Reino Unido,2023-09-22 18:10:00,130,True
+19,Spyware,192.168.1.35,203.0.113.57,Media,China,Corea del Sur,2023-10-11 12:35:00,80,True
+20,Cross-Site Scripting (XSS),10.0.0.20,198.51.100.46,Baja,Rusia,Australia,2023-09-21 15:00:00,15,False
+21,DDoS,172.16.254.7,203.0.113.201,Alta,India,Estados Unidos,2023-10-12 20:45:00,140,False
+22,Phishing,192.168.0.40,198.51.100.68,Media,Brasil,Alemania,2023-09-20 10:05:00,30,True
+23,Malware,10.0.0.22,203.0.113.79,Alta,Ucrania,Japón,2023-10-13 14:20:00,110,True
+24,Man-in-the-Middle,172.16.254.8,198.51.100.90,Baja,Irán,Canadá,2023-09-19 22:35:00,12,False
+25,SQL Injection,192.168.1.45,203.0.113.103,Alta,Corea del Norte,Estados Unidos,2023-10-14 16:50:00,65,True
+26,Ransomware,10.0.0.25,198.51.100.35,Alta,Vietnam,Polonia,2023-09-18 08:15:00,190,True
+27,Brute Force,172.16.254.9,203.0.113.91,Media,China,Turquía,2023-10-15 09:40:00,55,False
+28,Zero-Day Exploit,192.168.0.50,198.51.100.14,Alta,Rusia,Reino Unido,2023-09-17 19:25:00,125,True
+29,Spyware,10.0.0.28,203.0.113.58,Media,India,Corea del Sur,2023-10-16 11:50:00,85,True
+30,Cross-Site Scripting (XSS),172.16.254.10,198.51.100.47,Baja,Brasil,Australia,2023-09-16 14:15:00,18,False
+31,DDoS,192.168.1.55,203.0.113.202,Alta,Ucrania,Estados Unidos,2023-10-17 21:00:00,160,False
+32,Phishing,10.0.0.30,198.51.100.69,Media,Irán,Alemania,2023-09-15 10:30:00,35,True
+33,Malware,172.16.254.11,203.0.113.80,Alta,Corea del Norte,Japón,2023-10-18 13:45:00,95,True
+34,Man-in-the-Middle,192.168.0.60,198.51.100.91,Baja,Vietnam,Canadá,2023-09-14 22:50:00,14,False
+35,SQL Injection,10.0.0.32,203.0.113.104,Alta,China,Estados Unidos,2023-10-19 17:05:00,75,True
+36,Ransomware,172.16.254.12,198.51.100.36,Alta,Rusia,Polonia,2023-09-13 08:20:00,210,True
+37,Brute Force,192.168.1.65,203.0.113.92,Media,India,Turquía,2023-10-20 09:35:00,60,False
+38,Zero-Day Exploit,10.0.0.35,198.51.100.15,Alta,Brasil,Reino Unido,2023-09-12 18:15:00,135,True
+39,Spyware,172.16.254.13,203.0.113.59,Media,Ucrania,Corea del Sur,2023-10-21 12:40:00,90,True
+40,Cross-Site Scripting (XSS),192.168.0.70,198.51.100.48,Baja,Irán,Australia,2023-09-11 15:05:00,20,False
+41,DDoS,10.0.0.38,203.0.113.203,Alta,Corea del Norte,Estados Unidos,2023-10-22 20:30:00,170,False
+42,Phishing,172.16.254.14,198.51.100.70,Media,Vietnam,Alemania,2023-09-10 10:55:00,40,True
+43,Malware,192.168.1.75,203.0.113.81,Alta,China,Japón,2023-10-23 14:10:00,105,True
+44,Man-in-the-Middle,10.0.0.40,198.51.100.92,Baja,Rusia,Canadá,2023-09-09 22:25:00,16,False
+45,SQL Injection,172.16.254.15,203.0.113.105,Alta,India,Estados Unidos,2023-10-24 16:40:00,80,True
+46,Ransomware,192.168.0.80,198.51.100.37,Alta,Brasil,Polonia,2023-09-08 08:45:00,220,True
+47,Brute Force,10.0.0.42,203.0.113.93,Media,Ucrania,Turquía,2023-10-25 09:50:00,65,False
+48,Zero-Day Exploit,172.16.254.16,198.51.100.16,Alta,Irán,Reino Unido,2023-09-07 19:35:00,140,True
+49,Spyware,192.168.1.85,203.0.113.60,Media,Corea del Norte,Corea del Sur,2023-10-26 12:55:00,95,True
+50,Cross-Site Scripting (XSS),10.0.0.45,198.51.100.49,Baja,Vietnam,Australia,2023-09-06 15:20:00,22,False
+51,DDoS,172.16.254.17,203.0.113.204,Alta,China,Estados Unidos,2023-10-27 21:15:00,180,False
+52,Phishing,192.168.0.90,198.51.100.71,Media,Rusia,Alemania,2023-09-05 11:30:00,45,True
+53,Malware,10.0.0.48,203.0.113.82,Alta,India,Japón,2023-10-28 14:45:00,115,True
+54,Man-in-the-Middle,172.16.254.18,198.51.100.93,Baja,Brasil,Canadá,2023-09-04 22:40:00,18,False
+55,SQL Injection,192.168.1.95,203.0.113.106,Alta,Ucrania,Estados Unidos,2023-10-29 17:55:00,85,True
+56,Ransomware,10.0.0.50,198.51.100.38,Alta,Irán,Polonia,2023-09-03 09:10:00,230,True
+57,Brute Force,172.16.254.19,203.0.113.94,Media,Corea del Norte,Turquía,2023-10-30 10:25:00,70,False
+58,Zero-Day Exploit,192.168.0.100,198.51.100.17,Alta,Vietnam,Reino Unido,2023-09-02 20:00:00,150,True
+59,Spyware,10.0.0.52,203.0.113.61,Media,China,Corea del Sur,2023-10-31 13:15:00,100,True
+60,Cross-Site Scripting (XSS),172.16.254.20,198.51.100.50,Baja,Rusia,Australia,2023-09-01 15:30:00,25,False
+61,DDoS,192.168.1.105,203.0.113.205,Alta,India,Estados Unidos,2023-11-01 22:05:00,190,False
+62,Phishing,10.0.0.55,198.51.100.72,Media,Brasil,Alemania,2023-08-31 11:50:00,50,True
+63,Malware,172.16.254.21,203.0.113.83,Alta,Ucrania,Japón,2023-11-02 15:05:00,125,True
+64,Man-in-the-Middle,192.168.0.110,198.51.100.94,Baja,Irán,Canadá,2023-08-30 23:20:00,20,False
+65,SQL Injection,10.0.0.58,203.0.113.107,Alta,Corea del Norte,Estados Unidos,2023-11-03 18:35:00,90,True
+66,Ransomware,172.16.254.22,198.51.100.39,Alta,Vietnam,Polonia,2023-08-29 09:40:00,240,True
+67,Brute Force,192.168.1.115,203.0.113.95,Media,China,Turquía,2023-11-04 10:55:00,75,False
+68,Zero-Day Exploit,10.0.0.60,198.51.100.18,Alta,Rusia,Reino Unido,2023-08-28 20:30:00,160,True
+69,Spyware,172.16.254.23,203.0.113.62,Media,India,Corea del Sur,2023-11-05 13:45:00,105,True
+70,Cross-Site Scripting (XSS),192.168.0.120,198.51.100.51,Baja,Brasil,Australia,2023-08-27 15:50:00,28,False
+71,DDoS,10.0.0.62,203.0.113.206,Alta,Ucrania,Estados Unidos,2023-11-06 22:25:00,200,False
+72,Phishing,172.16.254.24,198.51.100.73,Media,Irán,Alemania,2023-08-26 12:00:00,55,True
+73,Malware,192.168.1.125,203.0.113.84,Alta,Corea del Norte,Japón,2023-11-07 15:15:00,130,True
+74,Man-in-the-Middle,10.0.0.65,198.51.100.95,Baja,Vietnam,Canadá,2023-08-25 23:30:00,22,False
+75,SQL Injection,172.16.254.25,203.0.113.108,Alta,China,Estados Unidos,2023-11-08 18:45:00,95,True
+76,Ransomware,192.168.0.130,198.51.100.40,Alta,Rusia,Polonia,2023-08-24 09:50:00,250,True
+77,Brute Force,10.0.0.68,203.0.113.96,Media,India,Turquía,2023-11-09 11:05:00,80,False
+78,Zero-Day Exploit,172.16.254.26,198.51.100.19,Alta,Brasil,Reino Unido,2023-08-23 20:40:00,170,True
+79,Spyware,192.168.1.135,203.0.113.63,Media,Ucrania,Corea del Sur,2023-11-10 14:00:00,110,True
+80,Cross-Site Scripting (XSS),10.0.0.70,198.51.100.52,Baja,Irán,Australia,2023-08-22 16:15:00,30,False
+81,DDoS,172.16.254.27,203.0.113.207,Alta,Corea del Norte,Estados Unidos,2023-11-11 22:50:00,210,False
+82,Phishing,192.168.0.140,198.51.100.74,Media,Vietnam,Alemania,2023-08-21 12:25:00,60,True

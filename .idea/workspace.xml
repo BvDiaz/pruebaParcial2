@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a0a9e6c5-2299-44c3-b2c4-9737535e4bb2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ProgObserverAct/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgObserverAct/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgObserverAct/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgObserverAct/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgObserverAct/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgObserverAct/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgObserverAct/ProgObserverAct.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgObserverAct/src/Ejemplo1Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgObserverAct/src/Ejemplo2Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgObserverAct/src/Ejemplo3Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgObserverAct/src/EjemploObservable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgObserverAct/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgObserverAct/src/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/.idea/scala_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/RepasoExamen/Repaso2.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/RepasoExamen/Repaso3.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/RepasoExamen/RepasoExamen.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/RepasoPrueba2/Repaso.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/S3FuncionesAnonimas/funcionesAnonimas.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/S3FuncionesAnonimas/funcionesAnonimasDeOrdenSuperior.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/S4ListasFiltradoMapeo/ListasTuplasFiltradoMapeo.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/S4ListasFiltradoMapeo/Reto.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/S4ListasFiltradoMapeo/RetoCadenas.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/S4ListasFiltradoMapeo/RetoVariacionPearson.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/Semana10/GrafoDependenciasEncadenadas.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/Semana10/SumaReactivaBasica.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/Semana12/CirceSimple.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/Semana12/EDA5_correlacion.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/Semana12/EDA_Goleador.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/Semana12/JsonMalFormadoCircePro.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/Semana12/TallerSemana12.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/Semana13/EjemploClase.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/Semana14/EjemploBase.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/Semana14/EstudiantesApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/Semana9/BasicExample.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/Taller1/Taller1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/Taller11/Taller11.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/Taller3/Taller3.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/Taller4/Taller4.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/Taller5/Ejercicio1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/Taller5/Ejercicio2.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/Taller5/Ejercicio3.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/TallerSemana10/CalculoEnergiaCinetica.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/TallerSemana10/SumaReactivaNumeros.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/Tallerb2s9/Ejercicio002.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/Tallerb2s9/Ejercico001.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/Tallerb2s9/ejercicio1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/models/Asistencia.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciclo3/src/main/scala/models/Goleador.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoLimpio/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoLimpio/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoLimpio/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoLimpio/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoLimpio/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoLimpio/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoLimpio/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoLimpio/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoLimpio/src/main/scala/EvaluacionParcial2Bim/ExamenParcial.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoLimpio/src/main/scala/models/productos.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoLimpio2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoLimpio2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoLimpio2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoLimpio2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoLimpio2/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoLimpio2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoLimpio2/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoLimpio2/project/build.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/..">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="38zLr5wIAF5z4PFMHp6KTwvIhdo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Ataques.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Ataques" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Prueba.Ataques" />
+      <module name="pruebaParcial2.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Prueba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="pruebaParcial22" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="pruebaParcial22" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="pruebaParcial22" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="pruebaParcial22" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="pruebaParcial22" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="pruebaParcial22" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ataques" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="migrateConfigurationsNotificationShown" value="true" />
+    <option name="scala3DisclaimerShown" value="true" />
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0a9e6c5-2299-44c3-b2c4-9737535e4bb2" name="Changes" comment="" />
+      <created>1769797649207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769797649207</updated>
+    </task>
+    <servers />
+  </component>
+</project>

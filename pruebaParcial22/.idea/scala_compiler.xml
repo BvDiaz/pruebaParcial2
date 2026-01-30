@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="separateProdTestSources" value="true" />
+    <profile name="sbt 1" modules="pruebaParcial2,pruebaParcial2.main,pruebaParcial2.test,pruebaParcial22.pruebaParcial2,pruebaParcial22.pruebaParcial2.main,pruebaParcial22.pruebaParcial2.test" />
+  </component>
+</project>
